@@ -5,3 +5,5 @@ IntelliJ
 - Netbean
 - Microsoft SQL
 - GitHub
+Code Structure: 
+Code structure follows the MVC process
