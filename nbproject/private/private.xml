@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/forgotPassword.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Model/Schedule.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/test/Model/ClassTest.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Controller/ClassController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/AddStudent.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Model/Teacher.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/test/Model/TeacherTest.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Controller/StudentController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Model/DBContext.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Model/SendEmail.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/Login.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/test/Model/ScheduleTest.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Model/Admin.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Controller/LoginController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Controller/ScheduleController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/UpdateClass.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Model/Class.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Controller/ForgotPassword.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Controller/TeacherController.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/src/java/Model/User.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/UpdateSchedule.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/ListClass.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/ListStudent.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Assignment_PRJ_2/web/TeacherMenu.jsp</file>
+        </group>
+    </open-files>
+</project-private>
